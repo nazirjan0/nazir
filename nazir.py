@@ -1,5 +1,5 @@
-# Decompiled By mohammad sultani
-# Github : https://github.com/mohammafjan1122
+# Decompiled By Nazir Danesh 
+# Github : https://github.com/nazirjan0/nazir
                 ##############$ BY:. $#################
 #                      ~=>> Red_Vairus6 <<=~                     #
                 ############## $ V1.4 $################
@@ -44,8 +44,8 @@ def color(text):
     text= text.replace('W@',col[7])
     return text
        
-######################
-#MetaSploit Starting Chr
+#######################
+(nazirjanafghan)
 #######################         
 def cptl(text):
     
@@ -59,7 +59,7 @@ def cptl(text):
 #cptl('starting joker tools ')
 
 ######################
-#Loadbar | ####
+#fb  | ####
 #######################
 def loadbar():
     print(" ")
@@ -70,7 +70,7 @@ def loadbar():
         sleep(.5)
 
 ######################
-#Banners         #1 Meta Banner
+#Banners         #1 nazir 
 #######################
 def meta_bnr():
 	#from ToolStyle import color
